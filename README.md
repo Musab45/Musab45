@@ -15,7 +15,7 @@
 - 📔 Currently studying **Software Engineering at Bahria University**
 - 🌱 Expanding skills in **Flutter, Python, and CV Applications**
 - 🤝 Open to collaboration on **Software, AI, CV, and ML projects**
-- 👨‍💻 Check out my projects here 👉 [Musab45](https://github.com/Musab45)
+- 👨‍💻 Check out my projects here 👉 [Musab45](https://github.com/Musab45?tab=repositories)
 - 💬 Ask me anything about **C++, Java, Python, or core programming concepts**
 - 📫 Reach me at **Musabshehzad88@gmail.com**
 - ⚡ **Fun Fact:** I work as a 3D Visualization freelancer
