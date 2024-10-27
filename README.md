@@ -45,9 +45,8 @@
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" title="MySQL"/>
   <img src="https://img.icons8.com/color/48/000000/opencv.png" alt="OpenCV" title="OpenCV"/>
   <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="Photoshop" title="Photoshop"/>
-  <img src="https://img.icons8.com/color/48/000000/postman-api.png" alt="Postman" title="Postman"/>
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python"/>
-  <img src="https://img.icons8.com/color/48/000000/selenium.png" alt="Selenium" title="Selenium"/>
+  <img src="https://img.icons8.com/?size=48&id=38553&format=png&color=000000" alt="Selenium" title="Selenium"/>
   <img src="https://img.icons8.com/color/48/000000/unreal-engine.png" alt="Unreal Engine" title="Unreal Engine"/>
   <img src="https://img.icons8.com/color/48/000000/zapier.png" alt="Zapier" title="Zapier"/>
 </p>
