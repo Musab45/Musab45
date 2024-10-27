@@ -27,7 +27,7 @@
   <a href="https://linkedin.com/in/musab-shehzad-258184189/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="musab shehzad" /></a>
   <a href="https://instagram.com/musab_.shehzad" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="musab_.shehzad" /></a>
   <a href="https://www.behance.net/musab88" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/behance.png" alt="musab88" /></a>
-  <a href="https://www.leetcode.com/musab88" target="blank"><img align="center" src="http://www.w3.org/2000/svg" alt="musab88" /></a>
+  <a href="https://www.leetcode.com/musab88" target="blank"><img align="center" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" alt="musab88" /></a>
 </p>
 
 ---
