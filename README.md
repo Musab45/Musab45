@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Musab Shehzad</h1>
-<h3 align="center">An inquistive Software Engineer from Pakistan.</h3>
+<h3 align="center">A Software Engineer from Mars</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musab45&label=Visitors&color=0e75b6&style=flat" alt="musab45" /> </p>
 
@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter, Python and CV Applications.**
 
-- 👯 I will be happy to collaborate on **any Software, AI, CV and ML Projects.**
-
-- 🤝 I’m looking for help with **fullt understanding how AI models work.**
+- 🤝 I will be happy to collaborate on **any Software, AI, CV and ML Projects.**
 
 - 👨‍💻 All of my projects are available here on my GitHub profile [github.com/Musab45](github.com/Musab45)
 
