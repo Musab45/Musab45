@@ -27,10 +27,10 @@
 
 📊 GitHub Stats:
 <div align="center"> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=musab45&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
+    <br><br>
     <img src="https://github-readme-stats.vercel.app/api?username=musab45&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
     <br><br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=musab45&theme=dark" alt="GitHub Streak" />
-    <br><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=musab45&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
 </div>
 
