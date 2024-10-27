@@ -1,8 +1,10 @@
 <div align="center">
     <h1>
     Hi 👋, I'm Musab Shehzad
-🚀 A Software Engineer from Mars, Earthling by chance!
 </h1>
+    <h3>
+        A Software Engineer from Mars 🧑‍🚀, Earthling by chance!
+    </h3>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musab45&label=Visitors&color=0e75b6&style=flat" alt="musab45" /> </p>
