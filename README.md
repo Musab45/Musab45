@@ -62,9 +62,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=musab45&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </p>
 <br>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=musab45&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
 ---
 
