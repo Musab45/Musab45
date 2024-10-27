@@ -27,14 +27,14 @@
   <a href="https://linkedin.com/in/musab-shehzad-258184189/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="musab shehzad" /></a>
   <a href="https://instagram.com/musab_.shehzad" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="musab_.shehzad" /></a>
   <a href="https://www.behance.net/musab88" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/behance.png" alt="musab88" /></a>
-  <a href="https://www.leetcode.com/musab88" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/000000/leetcode.png" alt="musab88" /></a>
+  <a href="https://www.leetcode.com/musab88" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" alt="musab88" /></a>
 </p>
 
 ---
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/blender-3d.png" alt="Blender" title="Blender"/>
+  <img src="https://img.icons8.com/color/48/000000/blender-3d.png" alt="Blender" title="Blender"/>https://img.icons8.com/ios-filled/50/000000/leetcode.png
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" title="C++"/>
   <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" title="Dart"/>
   <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" title="Figma"/>
