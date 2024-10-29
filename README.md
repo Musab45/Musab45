@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=0AEFFF&center=true&vCenter=true&width=600&height=60&lines=Welcome+to+My+Space!+🚀;Hi+%F0%9F%91%8B%2C+I'm+Musab+Shehzad;A+Software+Engineer+from+Mars">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&color=0AEFFF&center=true&vCenter=true&width=600&height=60&lines=Welcome+to+My+Space!+🚀;Hi+%F0%9F%91%8B%2C+I'm+Musab+Shehzad;A+Software+Engineer+from+Mars">
 </h1>
 
 <h3 align="center">Crafting the Future of Software & Technology 🚀</h3>
