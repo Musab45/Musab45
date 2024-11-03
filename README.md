@@ -32,21 +32,27 @@
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/blender-3d.png" alt="Blender" title="Blender" style="margin: 0 20px;"/>
+  <!-- Programming Languages -->
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" title="C++" style="margin: 0 20px;"/>
   <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" title="Dart" style="margin: 0 20px;"/>
-  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" title="Figma" style="margin: 0 20px;"/>
-  <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" title="Flutter" style="margin: 0 20px;"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git" style="margin: 0 20px;"/>
-  <img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png" alt="Illustrator" title="Illustrator" style="margin: 0 20px;"/>
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java" style="margin: 0 20px;"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" title="MySQL" style="margin: 0 20px;"/>
-  <img src="https://img.icons8.com/color/48/000000/opencv.png" alt="OpenCV" title="OpenCV" style="margin: 0 20px;"/>
-  <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="Photoshop" title="Photoshop" style="margin: 0 20px;"/>
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python" style="margin: 0 20px;"/>
+
+  <!-- Coding Tools -->
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git" style="margin: 0 20px;"/>
   <img src="https://img.icons8.com/?size=48&id=38553&format=png&color=000000" alt="Selenium" title="Selenium" style="margin: 0 20px;"/>
+  <img src="https://img.icons8.com/color/48/000000/opencv.png" alt="OpenCV" title="OpenCV" style="margin: 0 20px;"/>
   <img src="https://img.icons8.com/color/48/000000/unreal-engine.png" alt="Unreal Engine" title="Unreal Engine" style="margin: 0 20px;"/>
+
+  <!-- Other Tools -->
+  <img src="https://img.icons8.com/color/48/000000/blender-3d.png" alt="Blender" title="Blender" style="margin: 0 20px;"/>
+  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" title="Figma" style="margin: 0 20px;"/>
+  <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" title="Flutter" style="margin: 0 20px;"/>
+  <img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png" alt="Illustrator" title="Illustrator" style="margin: 0 20px;"/>
+  <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="Photoshop" title="Photoshop" style="margin: 0 20px;"/>
 </p>
+
 
 
 
