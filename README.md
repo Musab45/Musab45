@@ -46,7 +46,6 @@
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python"/>
   <img src="https://img.icons8.com/?size=48&id=38553&format=png&color=000000" alt="Selenium" title="Selenium"/>
   <img src="https://img.icons8.com/color/48/000000/unreal-engine.png" alt="Unreal Engine" title="Unreal Engine"/>
-  <img src="https://img.icons8.com/?size=48&id=38553&format=png&color=000000" alt="Zapier" title="Zapier"/>
 </p>
 
 ---
