@@ -72,8 +72,11 @@
 ## 🏆 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/Musab45/Console-Based-C-Maze-Solver">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=musab45&repo=Console-Based-C-Maze-Solver&theme=tokyonight" />
+  <a href="https://github.com/Musab45/Console-Based-C-Maze-Solver" style="margin-right: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=musab45&repo=Console-Based-C-Maze-Solver&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Musab45/Wi-Fi_Human_Detection.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=musab45&repo=Wi-Fi_Human_Detection&theme=tokyonight" />
   </a>
 </p>
 
