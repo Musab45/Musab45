@@ -40,7 +40,7 @@ const musab = {
       
 ### 🚀 Current Endeavors
       
-- 🔭 Developing a **Computer Vision-based Security System**
+- 🔭 Developing a **Computer Vision-based Hex-Bot**
 - 🌱 Mastering **Flutter State Management** advanced techniques
 - 🛠️ Building a **3D Portfolio Showcase App** with custom shaders
 - 📱 Creating a suite of **Productivity Tools for Developers**
