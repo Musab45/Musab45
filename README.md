@@ -115,11 +115,6 @@ const musab = {
 <!-- Statistics with Animated Data Visualization -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35px"> GitHub Analytics
 
-<!-- Grid layout for stats -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=musab45&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&bg_color=0D1117" alt="Musab's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musab45&layout=compact&theme=radical&border_radius=10&hide_border=true&bg_color=0D1117" alt="Musab's Top Languages" />
-</div>
 
 <!-- Contribution graph -->
 <div align="center">
