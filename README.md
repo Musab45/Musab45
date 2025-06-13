@@ -268,31 +268,6 @@ const musab = {
   </a>
 </div>
 
-<!-- Workflow Diagram using Mermaid -->
-<div align="center">
-  
-  ### 🔄 My Development Workflow
-  
-```mermaid
-graph TD
-    A[Idea Conception] --> B[Research & Planning]
-    B --> C[Design UI/UX]
-    C --> D[Development]
-    D --> E[Testing & Debugging]
-    E --> F[Optimization]
-    F --> G[Deployment]
-    G --> H[User Feedback]
-    H --> I{Improvements?}
-    I -->|Yes| C
-    I -->|No| J[Project Completed]
-    
-    style A fill:#ff5555,stroke:#333,stroke-width:2px
-    style D fill:#5555ff,stroke:#333,stroke-width:2px
-    style G fill:#55ff55,stroke:#333,stroke-width:2px
-    style J fill:#ffff55,stroke:#333,stroke-width:2px
-```
-
-</div>
 
 <!-- Footer with Dynamic Message -->
 <div align="center">
