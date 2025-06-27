@@ -41,10 +41,10 @@ const musab = {
 ### 🚀 Current Endeavors
       
 - 🔭 Developing a **Computer Vision-based Hex-Bot**
-- 🌱 Mastering **Flutter State Management** advanced techniques
+- 🌱 Mastering **Flutter** advanced techniques
 - 🛠️ Building a **3D Portfolio Showcase App** with custom shaders
 - 📱 Creating a suite of **Productivity Tools for Developers**
-- 🤝 Open to collaborate on projects involving **Python, Flutter & C++**
+- 🤝 Open to collaborate on projects involving **Python, Flutter & Custom Solutions**
   
 ### 🎓 Educational Background
       
@@ -109,38 +109,6 @@ const musab = {
     <a href="#"><img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white&labelColor=8A4418" alt="Blender" /></a>
     <a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=852C11" alt="Figma" /></a>
     <a href="#"><img src="https://img.shields.io/badge/Adobe_CC-DA1F26?style=for-the-badge&logo=adobe&logoColor=white&labelColor=7A1217" alt="Adobe Creative Cloud" /></a>
-  </p>
-</div>
-
-<!-- Statistics with Animated Data Visualization -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35px"> GitHub Analytics
-
-
-<!-- Contribution graph -->
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=musab45&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
-<!-- Streak stats -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=musab45&theme=radical&hide_border=true&background=0D1117" alt="Musab's Streak Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=musab45&theme=radical&no-frame=true&no-bg=true&column=7" alt="Musab's Trophies" width="98%" />
-</div>
-
-<!-- Showcase Projects with Dynamic Cards -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="35px"> Featured Projects
-
-<div align="center">
-  <p>
-    <a href="https://github.com/Musab45/Console-Based-C-Maze-Solver">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=musab45&repo=Console-Based-C-Maze-Solver&theme=radical&border_radius=10&hide_border=true&bg_color=0D1117" alt="Maze Solver" />
-    </a>
-    <a href="https://github.com/Musab45/Wi-Fi_Human_Detection">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=musab45&repo=Wi-Fi_Human_Detection&theme=radical&border_radius=10&hide_border=true&bg_color=0D1117" alt="Wi-Fi Human Detection" />
-    </a>
   </p>
 </div>
 
