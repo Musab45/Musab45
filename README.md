@@ -27,8 +27,8 @@
 const musab = {
   location: "Pakistan 🇵🇰",
   education: "Software Engineering @ Bahria University",
-  fields: ["Mobile Development", "Computer Vision", "3D Visualization"],
-  currentFocus: "Building intuitive Flutter apps with powerful backends",
+  fields: ["Mobile Development", "ML/AI", "3D Visualization"],
+  currentFocus: "Learning to build smart ML models",
   expertise: ["UI/UX Design", "Architectural Visualization", "Automation"],
   funFact: "I can translate design concepts into both code and 3D art"
 };
@@ -51,7 +51,7 @@ const musab = {
 - 📚 **Software Engineering** - Bahria University
 - 🏆 **Certified Flutter Developer** - Google Developers
 - 🎨 **3D Visualization & Rendering** - Self-taught professional
-- 🔧 **Computer Vision Applications** - Research-focused
+- 🔧 **ML/AI Applications** - Research-focused
 
     </td>
     <td valign="top" width="50%">
