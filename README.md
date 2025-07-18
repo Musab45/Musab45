@@ -113,6 +113,7 @@ const musab = {
 </div>
 
 <!-- Project showcase with descriptions -->
+<h3>🏆 Projects Showcase</h3>
 <table>
   <tr>
     <td width="50%">
