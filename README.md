@@ -17,7 +17,7 @@
   </p>
   
   <!-- Animated Wave Banner -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:2EA043&height=210&section=header&text=Software%20Engineer%20%7C%20Flutter%20Developer%20%7C%203D%20Artist&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Transforming%20Ideas%20into%20Digital%20Reality&descAlignY=50&descSize=20" alt="Header Banner"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:2EA043&height=210&section=header&text=Software%20Engineer%20%7C%20Flutter/Python%20Developer%20%7C%203D%20Artist&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Transforming%20Ideas%20into%20Digital%20Reality&descAlignY=50&descSize=20" alt="Header Banner"/>
 </div>
 
 <!-- Unique About Me Section with Custom Icons -->
