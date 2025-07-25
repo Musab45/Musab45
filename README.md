@@ -29,7 +29,7 @@ const musab = {
   education: "Software Engineering @ Bahria University",
   fields: ["Mobile Development", "ML/AI", "3D Visualization"],
   currentFocus: "Learning to build smart ML models",
-  expertise: ["UI/UX Design", "Architectural Visualization", "Automation"],
+  expertise: ["Logic Building", "Architectural Visualization", "Automation"],
   funFact: "I can translate design concepts into both code and 3D art"
 };
 ```
@@ -44,7 +44,7 @@ const musab = {
 - 🌱 Mastering **Flutter** advanced techniques
 - 🛠️ Building a **3D Portfolio Showcase App** with custom shaders
 - 📱 Creating a suite of **Productivity Tools for Developers**
-- 🤝 Open to collaborate on projects involving **Python, Flutter & Custom Solutions**
+- 🤝 Open to collaborate on projects involving **Python, Flutter & Custom ML/AI Solutions**
   
 ### 🎓 Educational Background
       
