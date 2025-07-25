@@ -2,7 +2,7 @@
   
   <!-- Dynamic 3D Name Header using SVG Animation -->
   
-  # <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&duration=2000&pause=750&color=0AEFFF&center=true&vCenter=true&random=false&width=700&height=80&lines=MUSAB+SHEHZAD;TECH+INNOVATOR+%26+3D+ARTIST;BUILDING+TOMORROW%2C+TODAY" alt="Dynamic Header"/>
+  # <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&duration=2000&pause=750&color=0AEFFF&center=true&vCenter=true&random=false&width=700&height=80&lines=MUSAB+SHEHZAD;TECH+INNOVATOR+%26+3D+ARTIST" alt="Dynamic Header"/>
   
   [<img src="https://img.shields.io/badge/PORTFOLIO-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"/>](https://github.com/musab45)
   [<img src="https://img.shields.io/badge/RESUME-FF5722?style=for-the-badge&logo=readme&logoColor=white"/>](https://github.com/musab45)
